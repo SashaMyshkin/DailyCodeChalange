@@ -5,7 +5,7 @@
  * In the given string, words can be separated by one or more spaces.
  * The returned string should only have one space between words.
  * Example:
- *  reverseSentence("npm  install  sudo") should return "sudo install npm".
+ * reverseSentence("npm  install  sudo") should return "sudo install npm".
  * reverseSentence("push commit git") should return "git commit push".
  */
 
